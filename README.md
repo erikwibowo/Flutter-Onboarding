@@ -1,5 +1,9 @@
 # onboarding
 
+# preview
+
+<img src="https://media.giphy.com/media/Y2yqBto4RC1MLj2iqs/giphy.gif" />
+
 A new Flutter project.
 
 ## Getting Started
